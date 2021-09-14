@@ -11,7 +11,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
-            "name": "04/09 Public Health in Refugee Settings",
+            "name": "09/04 Public Health in Refugee Settings",
             "notes": [
                 {
                     "__type__": "Note",
@@ -30,6 +30,136 @@
                         ""
                     ],
                     "guid": "Ae:lVk*d]y",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a9dd5f20-157d-11ec-8d1e-94085395e76b",
+            "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "09/08  Travel health risk assessment",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is Travel Medicine?&nbsp;<div>“Travel medicine is a specialism that deals with the health of {{c1::travellers who visit foreign countries}}. It crosses disciplines and is concerned not\nonly with prevention of infectious diseases during travel but also with\npersonal safety and reduction of environmental risk. Travel medicine\nspecialists should be able to recognise and either treat or refer common\ntropical infectious diseases in returned travellers.”&nbsp; (I think he wrote this so prob a question)<div><br></div><div>What is GeoSentinel Global Surveillance Network?&nbsp;</div><div>Partnership with&nbsp;International Society of Travel Medicine and CDC in Atlanta, Georgia, looks at diseases in travellers</div></div><div><br></div><div>Match these</div><div>• Person-to-person contact&nbsp;<br></div><div><div><div>• Bites and stings</div></div></div><div><div>• Vector-borne</div><div>• Environmental contact&nbsp;<br></div><div>• Food and water ingestion&nbsp;</div><div><br></div></div><div>1. Dengue, Malaria, Yellow fever, Zika&nbsp;<br></div><div>2. Hepatitis B, Influenza, Meningococcal</div><div>3. Cholera, Hepatitis A, Typhoid&nbsp;<br></div><div>4. Jelly fish, Scorpion, Rabies<br></div><div>5. Cutaneous larva migrans, Leptospirosis, <font color=\"#ff0000\">Schistosomiasis&nbsp;</font>(he loves this), Tetanus<br></div><div><br></div><div>{{c1::<div>• Vector-borne – eg, Dengue, Malaria, Yellow fever, Zika&nbsp;</div><div>• Person-to-person contact – eg, Hepatitis B, Influenza, Meningococcal&nbsp;</div><div>• Food and water ingestion – eg, Cholera, Hepatitis A, Typhoid&nbsp;</div><div>• Bites and stings – eg, Jelly fish, Scorpion, Rabies&nbsp;</div><div>• Environmental contact – eg, Cutaneous larva migrans, Leptospirosis,\nSchistosomiasis, Tetanus</div>}}<br></div>",
+                        ""
+                    ],
+                    "guid": "lV+9VEmpe0",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name 2 vaccines which can be mandatory. {{c1::Yellow fever and meningococcal vaccine&nbsp;}}<div>&nbsp;</div><div>• Women should wait {{c1::&gt;4}} weeks before conceiving after a live vaccines</div>",
+                        ""
+                    ],
+                    "guid": "d,[!V(xB)D",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a9ddd388-157d-11ec-8d1e-94085395e76b",
+            "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Im-deltoid_(cropped).png"
+            ],
+            "name": "09/09 Travel Vaccination and Malaria",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vaccine-preventable Travel-related Diseases<div><br></div><div>Which are the odd ones out?</div><div><br></div><div>• Chikungunya<br><div>• Cholera&nbsp;</div><div>• Dengue<br></div><div>• Diphtheria&nbsp;</div><div>• Hepatitis A&nbsp;</div><div>• Hepatitis B</div><div>• Hepatitis C&nbsp;<br></div><div>• Influenza&nbsp;</div><div>• Japanese Encephalitis&nbsp;</div><div>• Lyme<br></div><div>• Malaria<br></div><div>• Measles&nbsp;</div><div>• Meningococcal&nbsp;</div><div>• Mumps&nbsp;</div><div>• Pertussis&nbsp;</div><div>• Pneumococcal&nbsp;</div><div>• Poliomyelitis&nbsp;</div><div>• Rabies&nbsp;</div><div>• Rubella&nbsp;</div><div>• Tetanus&nbsp;</div><div>• Tick-borne Encephalitis&nbsp;</div><div>• Tuberculosis&nbsp;</div><div>• Typhoid&nbsp;</div><div>• Varicella&nbsp;</div><div>• West Nile<br></div><div>• Yellow Fever</div></div><div>• Zika<br></div><div><br></div><div>{{c1::Not vaccine preventable -&nbsp;</div><div>Malaria,&nbsp;</div><div>Dengue,&nbsp;</div><div>Chikungunya,&nbsp;</div><div>Zika ,&nbsp;</div><div>West Nile,</div><div>(^vaccine in the works)</div><div><br></div><div>Hepatitis C,</div><div>&nbsp;Lyme}}<br></div>",
+                        ""
+                    ],
+                    "guid": "t=_$%sYD?f",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Drug-Travel Vaccine Interactions&nbsp;</b><div>• Space vaccines at least {{c1::2.5}}cm apart if administered in same limb&nbsp;</div><div>• {{c1::Live attenuated}} vaccines should be avoided in patients taking\nimmunomodulators, cytotoxic agents, antimetabolites, and high-dose\nsteroids&nbsp;<br></div><div>• Delay live oral typhoid (<font color=\"#ff0000\">&gt;3 days</font>) and oral cholera (<font color=\"#ff0000\">&gt;14 days</font>) vaccine after\nadministration of {{c1::antibiotics}}&nbsp;</div><div>• Use {{c1::IM}} rabies vaccine in patients taking <font color=\"#ff0000\">chloroquine</font></div>",
+                        ""
+                    ],
+                    "guid": "Ft&4[cf}e.",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Vaccine Preparation and Administration</b><div><b><br></b></div><div>• Follow guidelines for choice of needle based on {{c1::adiposity}}<b><br></b></div><div>• Vaccines containing an adjuvant should be injected in Children &lt;3 yrs in the {{c1::Upper middle anterolateral thigh}} (point on yourself)</div><div><br></div><div>What is the deltoid safe triangle? What features does it miss?</div><div>{{c1::<div>Area of injection, radial nerve + brachial artery</div><div><img src=\"Im-deltoid_(cropped).png\"><br></div><div></div>}}<br></div><div><br></div><div>Why would a deep subcutaneous injection be given?</div><div>If bleeding disorder present risk of IM haematoma</div><div><br></div><div>• Yellow fever may be given {{c1::subcutaneously}}&nbsp;</div><div>• {{c1::Rabies+BCG}} may be given intradermally</div><div><br></div><div>If a person has an allergic reaction to eggs resulting in hives, which of the following vaccines can you give yellow fever or\ninfluenza vaccine?<br></div><div>{{c1::Both under emergency prepared conditions}}</div>",
+                        ""
+                    ],
+                    "guid": "Bb.WF[w4qe",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><b>Yellow Fever</b><br></div><div>• Single-stranded RNA {{c1::Flavi}}virus&nbsp;</div><div>• Transmitted by Aedes or Haemagogus {{c1::mosquitoes}}&nbsp;</div><div>• Increased risk in rainy season&nbsp;</div><div>• Recent large outbreaks of YF in eastern Brazil (2017/18)&nbsp;</div><div><br></div><div>• Countries with risk of YF virus transmission</div><div>- 29 in Africa and 13 in Central and South America<b><br></b></div><div><br></div><div>• Risk of rare serious adverse events – Yellow fever vaccine associated\n{{c1::neurologic/viscerotropic}} disease<br></div><div><br></div><div><u>Contraindications to YF Vaccine&nbsp;</u></div><div>• Allergy to vaccine component&nbsp;</div><div>• Age &lt; {{c1:6 months&nbsp;}}</div><div>• HIV, if CD4 count &lt;{{c1::200}}/mm3&nbsp;</div><div><br></div><div>Which disease is not CI?</div><div>• Thymoma in myasthenia gravis&nbsp;</div><div>• Diabetes<br></div><div>• Primary immunodeficiencies&nbsp;</div><div>• Malignancy&nbsp;</div><div><div>• Pregnancy</div></div><div>• Transplantation&nbsp;</div><div>• Immunosuppressive and immunomodulatory drugs<br></div><div><br></div><div>{{c1::Diabetes and Pregnancy}}<br></div>",
+                        ""
+                    ],
+                    "guid": "r[pbjU_=_F",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Rabies</b>&nbsp;&nbsp;<div>• Pre-exposure prophylaxis: give the interval between days of treatment {{c1::days 0, 7, 21-28}}&nbsp;<br></div><div>• Wound management&nbsp;</div><div>• Post-exposure prophylaxis: IM rabies vaccine on days {{c1::0, 3}} if vaccinated</div><div><br></div><div>•&nbsp;Human Rabies {{c1::Immunoglobulin}} on day 0 and IM rabies vaccine on (give interval again) {{c1::days 0,\n3, 7, 14}} if unvaccinated</div>",
+                        ""
+                    ],
+                    "guid": "ny7X(>{ZGH",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Hepatitis</b><div><u>Hepatitis A + Typhoid&nbsp;</u></div><div>• Single dose + booster of hepatitis A ({{c1::6 months – 1 year}}) and typhoid ({{c1::3 years}}) Give time between shots</div><div><br></div><div><u>Hepatitis A + B&nbsp;</u></div><div>• Standard - 0, 1 month, 6 months&nbsp;</div><div>• Accelerated - 0, 1 week, {{c1::3-4 weeks}}, 1 year</div><div>• Measure anti-HB{{c1::sAg}} antibodies in at-risk adults at 1-3 months following completion of series<b><br></b></div>",
+                        ""
+                    ],
+                    "guid": "n5/@.+K3NL",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Pregnancy and Travel Vaccines</b><div>• Tetanus, diphtheria, pertussis vaccine should be given between {{c1::27}} and {{c1::36}} weeks gestation&nbsp;</div><div>• Vaccines are not recommended unless there is a specified risk to the mother, True or False? {{c1::False, Annual inactivated influenza vaccine is recommended&nbsp;}}</div><div>• Certain vaccines, including hepatitis A/B and {{c1::meningococcal}} vaccines may be indicated based on risk.&nbsp;</div><div>• Rabies post-exposure prophylaxis should be given after low-moderate risk rabies exposure during travel. True or false? {{c1::False, moderate-high risk}}&nbsp;</div><div>• Avoid live-virus vaccines, except yellow fever vaccine, for which pregnancy is considered a precaution. True or false? {{c1::True, but you can issue a medical waiver if risks of vaccination outweigh risks of YF exposure. }}</div><div>• Wait at least {{c1::4}} weeks after live-virus vaccine before conceiving.<b><br></b></div>",
+                        ""
+                    ],
+                    "guid": "Jd)D$eh{}O",
+                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Malaria</b><div>What<b>&nbsp;</b>are the ABCDE of malaria?</div><div>{{c1::<div>• Awareness of risk&nbsp;</div><div>• Bite prevention&nbsp;</div><div>•Chemoprophylaxis (if indicated)&nbsp;</div><div>• Diagnosis&nbsp;</div><div>• Emergency self treatment (if appropriate)</div>}}<br></div><div><br></div><div><u>Chemoprophylaxis</u><br></div><div>Atovaquone-proguanil&nbsp;</div><div><font color=\"#ff0000\">Daily</font>; well tolerated; good for last minute\ntravellers; avoid in {{c1::severe renal impairment&nbsp;}}</div><div><br></div><div>Chloroquine&nbsp;</div><div><font color=\"#ff0000\">Weekly</font>; can be used in pregnancy; may worsen\n{{c1::psoriasis}}</div><div>&nbsp;</div><div>Doxycycline&nbsp;</div><div><font color=\"#ff0000\">Daily</font>; may prevent <font color=\"#ff0000\">rickettsia</font> or <font color=\"#ff0000\">leptospirosis</font>; avoid\nin {{c1::pregnancy}} and &lt; 8 years; photosensitivity in 3%&nbsp;</div><div><br></div><div>Mefloquine&nbsp;</div><div>{{c1::Weekly}}; safe in pregnancy; no longer licensed in\nIreland; {{c1::psychiatric}} side effects</div><div>&nbsp;</div><div>Primaquine/Tafenoquine&nbsp;</div><div>Primaquine (P. vivax) | Tafenoquine (vivax and\nfalciparum); cannot be used in {{c1::G6PD}} deficiency<u><br></u></div><div><br></div><div>If you think you got malaria what should you do?</div><div>{{c1::Give yourself&nbsp;Atovaquone-proguanil or Artemether-lumafantrine immediately and seek a medical facility}}</div>",
+                        ""
+                    ],
+                    "guid": "QL*/<%L,F0",
                     "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                     "tags": []
                 }
